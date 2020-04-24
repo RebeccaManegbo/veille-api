@@ -1,0 +1,20 @@
+body {
+    width: 800px;
+    margin: 0em auto;
+}
+
+
+
+h3 {
+    font-size: 30px;
+    margin: 0px;
+    color: black;
+    font-style: italic;
+	}
+	
+h1 {
+    font-size: 50px;
+    margin: 5px;
+    color: black;
+    font-style: italic;
+}
